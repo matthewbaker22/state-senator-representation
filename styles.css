@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+h5 {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+ul {
+    margin: 0;
+}
+
+.no-bullet-points {
+    list-style-type: none;
+    padding: 15px 0 0 0;
+}
+
+a {
+    color: red;
+}
+
+img {
+    float: right;
+    padding: 0;
+    height: 100%;
+    
+}
+.navbar {
+    /* background: yellow; */
+    height: 150px;
+    padding: 0;
+    margin: 0;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+}
